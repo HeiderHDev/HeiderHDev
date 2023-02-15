@@ -21,7 +21,7 @@
 - 🔭 &nbsp; Actualmente, estoy trabajando en proyectos personales
 - 🤝 &nbsp; Me gusta aprender sobre las nuevas tecnologías
 - 🌱 &nbsp; Actualmente, estoy aprendiendo Typescript y Angular; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HeiderHDev)
+- 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/HeiderHDev)
 - 🎨 &nbsp; Me gusta realizar modelos 3D con Blender
 - 💬 &nbsp; Me gusta ayudar para aprender;
 - 📝 &nbsp; Puedes ver mi [currículum]()
