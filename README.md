@@ -7,8 +7,28 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<!--   https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<!--   https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 </div>
+
+###
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="250px" width="320px"/>
+  
+### 🧐 Más acerca de mi :
+
+- 🔭 &nbsp; Actualmente, estoy trabajando en proyectos personales
+- 🤝 &nbsp; Me gusta aprender sobre las nuevas tecnologías
+- 🌱 &nbsp; Actualmente, estoy aprendiendo Typescript y Angular; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HeiderHDev)
+- 🎨 &nbsp; Me gusta realizar modelos 3D con Blender
+- 💬 &nbsp; Me gusta ayudar para aprender;
+- 📝 &nbsp; Puedes ver mi [currículum]()
+- 📚 &nbsp; Cuando tengo tiempo libre me gusta hacer deporte e ir al gimnasio.
+
+<br>
+
 
 ###
 
@@ -63,8 +83,14 @@ const HeiderHDev = {
 
 ###
 
-<img src="https://raw.githubusercontent.com/HeiderHDev/HeiderHDev/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/HeiderHDev/HeiderHDev/blob/output/snake.svg" alt="Snake animation" /> -->
+
 
 ###
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
+
+###
