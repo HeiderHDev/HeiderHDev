@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Heider Rey Hernandez A, un desarrollador frontend apasionado, soy de Colombia.<br>Siempre con ganas de seguir aprendiendo y mejorar cada vez más, haciendo proyectos personales o aportando mis conocimientos donde trabaje.</p>
+<p align="left">Soy Heider Rey Hernandez A, un desarrollador frontend apasionado, soy de Colombia.<br>Siempre con ganas de seguir aprendiendo y mejorar cada vez más, haciendo proyectos personales y aportando mis conocimientos donde trabaje.</p>
 
 ###
 
