@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! Soy Heider Hernandez 👋</h2>
+<h1 align="left">¡Hola! Soy Heider Hernandez 👋</h1>
 
 ###
 
