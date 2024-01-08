@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Heider Rey Hernandez A, un desarrollador frontend apasionado, soy de Colombia.<br>Siempre con ganas de seguir aprendiendo y mejorar cada vez más, haciendo proyectos personales y aportando mis conocimientos donde trabaje.</p>
+<p align="left">Soy Heider Rey Hernandez A, un desarrollador de Software apasionado, soy de Colombia.<br>Siempre con ganas de seguir aprendiendo y mejorar cada vez más, haciendo proyectos personales y aportando mis conocimientos donde trabaje.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 - 🔭 &nbsp; Actualmente, estoy trabajando en proyectos personales
 - 🤝 &nbsp; Me gusta aprender sobre las nuevas tecnologías
-- 🌱 &nbsp; Actualmente, estoy aprendiendo Typescript y Angular; 
+- 🌱 &nbsp; Actualmente, soy un desarrollador de software junior; 
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/HeiderHDev)
 - 🎨 &nbsp; Me gusta realizar modelos 3D con Blender
 - 💬 &nbsp; Me gusta ayudar para aprender;
@@ -57,9 +57,9 @@
 
 const HeiderHDev = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, RXJS],
   tools: [Angular],
-  learning: [AWS]
+  learning: [AWS, NestJS]
 }
 
 ```
