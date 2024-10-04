@@ -18,7 +18,7 @@
   
 ### 🧐 Más acerca de mi :
 
-- 🔭 &nbsp; Actualmente, estoy trabajando en proyectos personales
+- 🔭 &nbsp; Actualmente, estoy trabajando con Angular, Nestjs, PHP y AWS
 - 🤝 &nbsp; Me gusta aprender sobre las nuevas tecnologías
 - 🌱 &nbsp; Actualmente, soy un desarrollador de software junior; 
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/HeiderHDev)
